@@ -1,0 +1,6 @@
+Study it:
+1)xsd
+2)ext js framework, EXTJS.AJAX
+3) db:
+join LEFT/RIGHT
+advanced query
